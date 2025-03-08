@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://gorobtsova.github.io/en/post/</link>
+      <atom:link href="https://gorobtsova.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gorobtsova.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://gorobtsova.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://gorobtsova.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gorobtsova.github.io/en/post/01/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Завершили сложную тему по &lt;strong&gt;матанализу&lt;/strong&gt;, пришлось разбираться в деталях.&lt;/li&gt;
+&lt;li&gt;Провела много времени над &lt;strong&gt;домашкой по линейной алгебре&lt;/strong&gt; – матрицы и определители теперь стали понятнее.&lt;/li&gt;
+&lt;li&gt;Попробовала новый способ организации конспектов – заметки стали структурированными.&lt;/li&gt;
+&lt;li&gt;Познакомилась с интересными людьми на паре – приятно общаться с единомышленниками.&lt;/li&gt;
+&lt;li&gt;Осознала, что важно грамотно планировать время, иначе на все не хватает сил.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Как прошла твоя неделя? Делись в комментариях!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
