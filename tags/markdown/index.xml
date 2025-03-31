@@ -5,12 +5,29 @@
     <link>https://gorobtsova.github.io/tags/markdown/</link>
       <atom:link href="https://gorobtsova.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gorobtsova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://gorobtsova.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://gorobtsova.github.io/post/03/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://gorobtsova.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-мехмат-неделя-в-нескольких-строках&#34;&gt;📚 МехМат: неделя в нескольких строках&lt;/h1&gt;
+&lt;p&gt;Неделя прошла в хорошем рабочем темпе — без перегрузов, но с ощутимым продвижением:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧮 На матанализе отрабатывали методы нахождения экстремумов. Постепенно приходит интуиция, где искать “ловушки” в условиях.&lt;/li&gt;
+&lt;li&gt;⚙️ Теоретическая механика — разобрали примеры на динамику систем с несколькими степенями свободы. Сложно, но интересно.&lt;/li&gt;
+&lt;li&gt;📈 Линейная алгебра: методы ортогонализации наконец-то «сели» на место — практики явно дают результат.&lt;/li&gt;
+&lt;li&gt;🎙️ Дополнительно говорили о научных презентациях: как донести идею, когда ты не лектор, а студент с формулами на слайде.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Итог недели — больше уверенности в расчётах и немного мыслей о том, как говорить на научном языке просто.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
